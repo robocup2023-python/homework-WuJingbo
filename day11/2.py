@@ -45,4 +45,5 @@ if __name__ == '__main__':
 德语：de
 法语：fr
 日语：ja
+官方链接：https://ai.youdao.com/DOCSIRMA/html/trans/api/wbfy/index.html
 '''
